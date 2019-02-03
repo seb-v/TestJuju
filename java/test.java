@@ -2,7 +2,7 @@ package test;
 
 public class test {
 
-    //test juju
+    //test tobol
 	private void toutou()
 	{
 
